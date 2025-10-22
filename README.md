@@ -31,7 +31,7 @@ This repository contains a MySQL database schema and sample data for managing co
 
 ## Usage
 
-1.  Execute the SQL script to create the database, tables, and populate them with data:
+1.  Execute the SQL script to create the database, tables and populate them with data:
 
     ```bash
     mysql -u your_mysql_username -p < Company_Project_MySQL.sql
