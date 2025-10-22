@@ -1,4 +1,4 @@
-# Company Project MySQL
+# Company project MySQL
 
 This repository contains a MySQL database schema and sample data for managing company information, locations, departments, projects and employees. The script includes table creation, constraints, triggers, sample data insertion, view creation and user privilege granting and revoking.
 
