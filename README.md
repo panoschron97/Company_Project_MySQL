@@ -23,7 +23,7 @@ This repository contains a MySQL database schema and sample data for managing co
 2.  Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/panoschron97/Company_Project_MySQL.git
+    git clone https://github.com/GMKAKISTOS/Company_Project_MySQL.git
     cd Company_Project_MySQL
     ```
 
